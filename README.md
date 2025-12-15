@@ -31,3 +31,6 @@ A FastAPI-based backend to collect, manage, and store sensor data from IoT devic
    git clone https://github.com/your-username/Aarma-be.git
    cd Aarma-be
    pip install fastapi uvicorn pymongo paho-mqtt
+
+
+
